@@ -10,6 +10,7 @@
 - [Modern Venus](https://github.com/bigbizze/AzureOCR/blob/master/invoices/modern_venus_1/README.md)
 - [HC](https://github.com/bigbizze/AzureOCR/blob/master/invoices/hc/README.md)
 - [Staples](https://github.com/bigbizze/AzureOCR/blob/master/invoices/staples/README.md)
+- [Interac Email](https://github.com/bigbizze/AzureOCR/blob/master/invoices/interac_email/README.md)
 
 #### Receipts
 - [Home Depot](https://github.com/bigbizze/AzureOCR/blob/master/receipts/home-depot/README.md)
