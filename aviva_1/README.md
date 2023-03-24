@@ -1,3 +1,9 @@
+![image](https://user-images.githubusercontent.com/42508203/227654956-0ce02aa3-195e-4b07-8e15-b53c45e39cf0.png)
+![image](https://user-images.githubusercontent.com/42508203/227654969-75fa78f1-d582-4aaa-aac1-ee1a392b5969.png)
+![image](https://user-images.githubusercontent.com/42508203/227654989-7d61fbf4-4097-43c3-ab5e-38445887e9b3.png)
+![image](https://user-images.githubusercontent.com/42508203/227655008-7962fac2-9561-4cb2-a21d-170a1ccf99f9.png)
+
+
 ```json
 {
   "CustomerAddress": {
