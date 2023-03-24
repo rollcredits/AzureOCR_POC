@@ -8,6 +8,8 @@ More info on pricing: https://azure.microsoft.com/en-us/pricing/details/form-rec
 
 ### Prebuilt Models
 
+The first 500 pages every month are free when using prebuilt models.
+
 Available prebuilt models: Document, Layout, Receipt, Invoice, ID, W-2, Card (Insurance, Vaccine, Business) [[1]](https://azure.microsoft.com/en-us/pricing/details/form-recognizer/#resources)
 
 More info on prebuilt models: https://learn.microsoft.com/en-us/azure/applied-ai-services/form-recognizer/concept-invoice?view=form-recog-3.0.0
