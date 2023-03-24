@@ -14,3 +14,6 @@
 #### Receipts
 - [Home Depot](https://github.com/bigbizze/AzureOCR/blob/master/receipts/home-depot/README.md)
 - [Dollarama](https://github.com/bigbizze/AzureOCR/blob/master/receipts/dollarama/README.md)
+
+#### Estimates
+- [Cinelease Quote](https://github.com/bigbizze/AzureOCR/blob/master/estimates/cinelease_quote/README.md)
