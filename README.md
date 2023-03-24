@@ -17,3 +17,4 @@
 
 #### Estimates
 - [Cinelease Quote](https://github.com/bigbizze/AzureOCR/blob/master/estimates/cinelease_quote/README.md)
+- [Cineworks Quote](https://github.com/bigbizze/AzureOCR/blob/master/estimates/cineworks_quote/README.md)
