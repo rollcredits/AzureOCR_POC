@@ -1,3 +1,11 @@
+From: sent from Nishant
+
+![image](https://user-images.githubusercontent.com/42508203/227999994-03505899-c627-4ff6-9f7c-464933691d1a.png)
+![image](https://user-images.githubusercontent.com/42508203/227999950-e668595c-2bc9-4222-b008-48947a0fca6a.png)
+![image](https://user-images.githubusercontent.com/42508203/227999914-4f6c48e6-45e5-411f-bd17-126a00f6e1fa.png)
+![image](https://user-images.githubusercontent.com/42508203/227999874-ba746ca4-7715-48f0-885d-44e518d01931.png)
+![image](https://user-images.githubusercontent.com/42508203/228000042-b95b7d65-2e18-489f-b4ce-66b46681deea.png)
+
 ```json
 {
   "AmountDue": {
