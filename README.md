@@ -6,7 +6,7 @@
 
 #### Invoices
 - [Cinelease](https://github.com/rollcredits/AzureOCR_POC/tree/master/invoices/cinelease-invoice/README.md)
-- [Aviva](https://github.com/rollcredits/AzureOCR_POC/blob/master/invoices/aviva_1/README.md)
+- [Aviva](https://github.com/rollcredits/AzureOCR_POC/blob/master/invoices/aviva/README.md)
 - [Modern Venus](https://github.com/rollcredits/AzureOCR_POC/blob/master/invoices/modern_venus/README.md)
 - [HC](https://github.com/rollcredits/AzureOCR_POC/blob/master/invoices/hc/README.md)
 - [Staples](https://github.com/rollcredits/AzureOCR_POC/blob/master/invoices/staples/README.md)
