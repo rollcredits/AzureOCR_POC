@@ -11,6 +11,7 @@
 - [HC](https://github.com/rollcredits/AzureOCR_POC/blob/master/invoices/hc/README.md)
 - [Staples](https://github.com/rollcredits/AzureOCR_POC/blob/master/invoices/staples/README.md)
 - [Interac Email](https://github.com/rollcredits/AzureOCR_POC/blob/master/invoices/interac_email/README.md)
+- [Karya](https://github.com/rollcredits/AzureOCR_POC/blob/master/invoices/karya/README.md)
 
 #### Receipts
 - [Home Depot](https://github.com/rollcredits/AzureOCR_POC/blob/master/receipts/home-depot/README.md)
