@@ -16,6 +16,12 @@
 #### Receipts
 - [Home Depot](https://github.com/rollcredits/AzureOCR_POC/blob/master/receipts/home-depot/README.md)
 - [Dollarama](https://github.com/rollcredits/AzureOCR_POC/blob/master/receipts/dollarama/README.md)
+- [Nishant Receipt #1](https://github.com/rollcredits/AzureOCR_POC/blob/master/receipts/nishant_receipt_1/README.md)
+- [Nishant Receipt #2](https://github.com/rollcredits/AzureOCR_POC/blob/master/receipts/nishant_receipt_2/README.md)
+- [Nishant Receipt #3](https://github.com/rollcredits/AzureOCR_POC/blob/master/receipts/nishant_receipt_3/README.md)
+- [Nishant Receipt #4](https://github.com/rollcredits/AzureOCR_POC/blob/master/receipts/nishant_receipt_4/README.md)
+- [Nishant Receipt #5](https://github.com/rollcredits/AzureOCR_POC/blob/master/receipts/nishant_receipt_5/README.md)
+- [Nishant Receipt #6](https://github.com/rollcredits/AzureOCR_POC/blob/master/receipts/nishant_receipt_6/README.md)
 
 #### Estimates
 - [Cinelease Quote](https://github.com/rollcredits/AzureOCR_POC/blob/master/estimates/cinelease_quote/README.md)
